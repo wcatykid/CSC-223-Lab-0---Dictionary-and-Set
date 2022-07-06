@@ -1,16 +1,36 @@
 package utilities;
 
-import static org.junit.jupiter.api.Assertions.*;
-
 import org.junit.jupiter.api.Test;
 
 class ParallelArrayDictionaryTest
 {
-
 	@Test
-	void test()
+	void testParallelArrayDictionary()
 	{
-		fail("Not yet implemented");
 	}
 
+	@Test
+	void testGet()
+	{
+	}
+
+	@Test
+	void testPut()
+	{
+	}
+
+	@Test
+	void testRemove()
+	{
+	}
+
+	@Test
+	void testPutAll()
+	{
+	}
+
+	@Test
+	void testClear()
+	{
+	}
 }

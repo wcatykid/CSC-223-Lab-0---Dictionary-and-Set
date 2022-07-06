@@ -1,16 +1,36 @@
 package utilities;
 
-import static org.junit.jupiter.api.Assertions.*;
-
 import org.junit.jupiter.api.Test;
 
 class ArraySetTest
 {
-
 	@Test
-	void test()
+	void testArraySetCollectionOfE()
 	{
-		fail("Not yet implemented");
 	}
 
+	@Test
+	void testAddE()
+	{
+	}
+
+	@Test
+	void testAddAllCollectionOfQextendsE()
+	{
+	}
+
+	@Test
+	void testRetainAll()
+	{
+	}
+
+	@Test
+	void testRemoveAll()
+	{
+	}
+
+	@Test
+	void testAddAllIntCollectionOfQextendsE()
+	{
+	}
 }
