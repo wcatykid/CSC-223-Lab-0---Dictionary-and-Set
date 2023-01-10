@@ -1,1 +1,13 @@
 /bin/
+bin/utilities/ArraySet.class
+bin/utilities/ArraySetTest.class
+bin/utilities/ParallelArrayDictionary.class
+bin/utilities/ParallelArrayDictionaryTest.class
+bin/utilities/ParallelArrayDictionary.class
+bin/utilities/ParallelArrayDictionary.class
+bin/utilities/ParallelArrayDictionaryTest.class
+bin/utilities/ArraySetTest.class
+bin/utilities/ArraySet.class
+bin/utilities/ParallelArrayDictionary.class
+*.class
+*.class
