@@ -11,3 +11,5 @@ bin/utilities/ArraySet.class
 bin/utilities/ParallelArrayDictionary.class
 *.class
 *.class
+bin/utilities/ParallelArrayDictionary.class
+*.class
